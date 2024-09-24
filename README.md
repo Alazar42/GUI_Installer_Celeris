@@ -1,7 +1,3 @@
-Here's a sample README for your Celeris Installer project:
-
----
-
 # Celeris Installer
 
 ## Overview
